@@ -1,0 +1,8 @@
+* Mini CNC
+** Parts
+   - 2.2kw spindle
+
+** Steel Tubing
+   - max z travel is ~200mm
+   - so each tube must be height ~ >100mm
+   - 2x4 inch tubing works great
